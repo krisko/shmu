@@ -1,18 +1,18 @@
-01d.png
-01n.png
-02d.png
-02n.png
-03d.png
-03n.png
-04d.png
-04n.png
-09d.png
-09n.png
-10d.png
-10n.png
-11d.png
-11n.png
-13d.png
-13n.png
-50d.png
-50n.png
+01d 011
+01n 010
+02d 021
+02n 020
+03d 031
+03n 030
+04d 041
+04n 040
+09d 091
+09n 090
+10d 101
+10n 100
+11d 111
+11n 110
+13d 131
+13n 130
+50d 501
+50n 500
